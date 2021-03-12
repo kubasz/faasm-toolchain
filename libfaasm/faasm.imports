@@ -32,3 +32,6 @@ __faasm_get_py_entry
 __faasm_chain_py
 __faasm_conf_flag
 __faasm_backtrace
+__faasmndp_getMmap
+__faasmndp_put
+__faasmndp_storageCallAndAwait
